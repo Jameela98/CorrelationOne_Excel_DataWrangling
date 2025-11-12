@@ -24,5 +24,5 @@
 
 ## What’s included
 - 'Extended-Case_ Data Wrangling in Excel' 
-- 'images/' 
+- 'pivot1 , hist_chart' 
 - 'README.md' 
